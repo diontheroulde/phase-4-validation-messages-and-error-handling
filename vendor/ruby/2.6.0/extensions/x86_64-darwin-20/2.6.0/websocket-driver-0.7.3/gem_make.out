@@ -1,0 +1,15 @@
+current directory: /Users/diontherouldejr/defenders/phase-4/phase-4-validation-messages-and-error-handling/vendor/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/Users/diontherouldejr/.asdf/installs/ruby/2.6.1/bin/ruby -I /Users/diontherouldejr/.asdf/installs/ruby/2.6.1/lib/ruby/2.6.0 -r ./siteconf20210913-64358-1hsc54c.rb extconf.rb
+creating Makefile
+
+current directory: /Users/diontherouldejr/defenders/phase-4/phase-4-validation-messages-and-error-handling/vendor/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/diontherouldejr/defenders/phase-4/phase-4-validation-messages-and-error-handling/vendor/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/diontherouldejr/defenders/phase-4/phase-4-validation-messages-and-error-handling/vendor/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20210913-64358-1bj5s6t
